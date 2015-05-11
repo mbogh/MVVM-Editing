@@ -1,0 +1,21 @@
+//
+//  AppDelegate.swift
+//  MVVM Editing
+//
+//  Created by Morten Bøgh on 11/05/15.
+//  Copyright (c) 2015 Just A Beech. All rights reserved.
+//
+
+import UIKit
+
+@UIApplicationMain
+class AppDelegate: UIResponder, UIApplicationDelegate {
+
+    var window: UIWindow?
+
+    func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        return true
+    }
+
+}
+
